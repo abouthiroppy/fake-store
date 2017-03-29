@@ -2,7 +2,7 @@
   "name": "fake-store",
   "main": "index.js",
   "author": "(http://about-hiroppy.com) abouthiroppy <git@about-hiroppy.com>",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "license": "MIT",
   "description": "Use with Container Component's test.",
   "keywords": [
